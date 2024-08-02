@@ -1,0 +1,86 @@
+body {
+    background-color:darkorange;
+    text-align: center;
+    color:black;
+}
+
+h1 {
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    border: solid 10px;
+
+}
+
+h2 {
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid 10px ;
+}
+
+h3 {
+border-radius: 100px;
+border: solid 10px orangered;
+font-family: Papyrus;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+li{
+font-family: fantasy;
+text-align: left;
+}
+
+.GroupElement {
+    background-color:black;
+    color: orange;
+    border-radius: 10px;
+    width: 250px;
+    text-align: center;
+
+}
+
+
+img {
+    border-radius: 0 100px 0 100px;
+    border: solid 5px black;
+    height: 300px;
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+}
+
+span {
+    background-color: white;
+    font-size:larger;
+    font-family:monospace, italic;
+}
+
+.group {
+    margin: 40px;
+    padding: 20px;
+    background-color: orangered;
+    border-radius: 20px;
+    font-family: fantasy, solid;
+}
+a {
+    border: solid 2px black;
+    margin: 5px;
+    color: orange;
+    background-color: black;
+}
+ul {
+    list-style-type: square;
+    font-size: large;
+    text-align: left;
+}
+
+button, img, p {
+margin: 10x 0 0 0;
+}
+
+
