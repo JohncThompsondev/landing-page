@@ -1,0 +1,23 @@
+body {
+    background-color: darkmagenta;
+    color: coral;
+    text-align: center;
+    font-size: large;
+}
+ .Johnny {
+    height: 350px;
+    border-radius: 300px;
+}
+img {
+    height: 350px;
+}
+.group {
+    margin: 40px;
+    padding: 20px;
+    background-color: orangered;
+    border-radius: 20px;
+    font-size: large;
+    font-family: fantasy, solid;
+    display: flex;
+    justify-content: space-between;
+}
